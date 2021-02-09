@@ -23,6 +23,9 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
     # Whether you want to hide copyright and credits in the footer.
     hideCredits = true
     hideCopyright = true
+    hideFooter = false
+    since = 2021
+
     footerContent = "Enter a text here."
 
     # Custom CSS
@@ -55,7 +58,7 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
 
 # Social links
 [[params.social]]
-    name = "Github"
+    name = "GitHub"
     icon = "fab fa-github"
     weight = 1
     url = "https://github.com/nonstoptimm/"
