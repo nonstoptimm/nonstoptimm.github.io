@@ -12,8 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nonstoptimm.github.io/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:</description>
+      <description>data scientist and architect for artificial intelligence-infused systems at Microsoft with extensive hands-on experience ranging from envisioning and scoping use cases to data analysis, machine learning model development, and production deployment.</description>
     </item>
     
     <item>
@@ -22,8 +21,17 @@ It makes use of a variety of open source projects including:</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nonstoptimm.github.io/projects/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:</description>
+      <description>stuff</description>
+    </item>
+    
+    <item>
+      <title>resume</title>
+      <link>https://nonstoptimm.github.io/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nonstoptimm.github.io/resume/</guid>
+      <description>professional experience  2018/10 - today data scientist / architect for ai systems; microsoft, berlin (germany) part of consulting services working with strategic enterprise customers
+ scoped and developed multiple artificial intelligence-infused systems and tools, focused on machine learning and software engineering programmatic drive of intellectual property re-use across the company speaker at worldwide developer community and business events created data science demos (voice bots, support ticket classification, image recognition) which helped to generate over three million dollars in revenue joined microsoft via the international &amp;ldquo;aspire&amp;rdquo; fast-track program that places fresh graduates in senior positions and leadership trainings across the world  projects</description>
     </item>
     
   </channel>
