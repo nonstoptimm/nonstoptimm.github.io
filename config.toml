@@ -23,6 +23,7 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
     # Whether you want to hide copyright and credits in the footer.
     hideCredits = true
     hideCopyright = true
+    footerContent = "Enter a text here."
 
     # Custom CSS
     custom_css = []
@@ -32,6 +33,10 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
 
     # RTL support
     rtl = false
+
+    # Color Scheme
+    colorScheme = "auto"
+    hideColorSchemeToggle = false
 
     # Bottom sns share
     snsShare = true # new add
