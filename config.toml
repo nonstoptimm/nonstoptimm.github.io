@@ -85,3 +85,7 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
     name = "resume"
     weight = 3
     url = "resume"
+[[menu.main]]
+    name = "contact"
+    weight = 4
+    url = "contact"

@@ -16,6 +16,16 @@
     </item>
     
     <item>
+      <title>contact</title>
+      <link>https://nonstoptimm.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nonstoptimm.github.io/contact/</guid>
+      <description>wanna chat? feel free to drop me a message:
+ via mail (nonstoptimm@gmail.com) via linkedin (my preference)  </description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>https://nonstoptimm.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -30,7 +40,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nonstoptimm.github.io/resume/</guid>
-      <description>professional experience  2018/10 - today data scientist / architect for ai systems; microsoft, berlin (germany) part of consulting services working with strategic enterprise customers
+      <description>long story short data scientist and architect for artificial intelligence-infused systems at Microsoft with extensive hands-on experience ranging from envisioning and scoping use cases to data analysis, machine learning model development, and production deployment.
+professional experience  2018/10 - today data scientist / architect for ai systems; microsoft, berlin (germany) part of consulting services working with strategic enterprise customers
  scoped and developed multiple artificial intelligence-infused systems and tools, focused on machine learning and software engineering programmatic drive of intellectual property re-use across the company speaker at worldwide developer community and business events created data science demos (voice bots, support ticket classification, image recognition) which helped to generate over three million dollars in revenue joined microsoft via the international &amp;ldquo;aspire&amp;rdquo; fast-track program that places fresh graduates in senior positions and leadership trainings across the world  projects</description>
     </item>
     
