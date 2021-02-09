@@ -30,5 +30,4 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-<a class="icon-twitter social-button color" href="https://twitter.com/nonstoptimm"></a>
-<a class="icon-linkedin social-button color" href="https://linkedin.com/timmwalz"></a>
+
