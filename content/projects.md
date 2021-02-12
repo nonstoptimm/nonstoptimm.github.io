@@ -3,4 +3,4 @@ title = "Projects"
 slug = "projects"
 +++
 
-stuff
+work in progress

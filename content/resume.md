@@ -94,8 +94,8 @@ data scientist and architect for artificial intelligence-infused systems at Micr
     familiar:
     - html/css, react, typescript, unix
 
-**methods / tools**
-:   - ci/cd, devops, docker, git, infrastructure as code, kubernetes, nosql, pytorch, spark, tensorflow, transformers
+**methods / platforms/ tools**
+:   - azure, ci/cd, devops, google cloud platform, docker, git, infrastructure as code, kubernetes, nosql, pytorch, spark, tensorflow, transformers
 
 **certifications**
 :   - ai-100, dp-100, professional scrum master
