@@ -23,13 +23,13 @@ data scientist and architect for artificial intelligence-infused systems at Micr
     - Developed custom, voice-based post-processing for German car license plates using named entity recognition within in a large-scale voice bot solution (1.000.000 calls per year, recognition score of > 90%)
     - Implemented training data generator for natural language understanding units to enhance recognition quality in specific domains
     - Developed solution accelerator [glue](https://github.com/microsoft/glue) for language-based use cases with azure cognitive services, enabling customers and developers to conduct end-to-end batch testing of interconnected services and models
-    - Co-created open source data labeling tool "UpLabel", including active learning feature and labeler performance metrics to iteratively enhance data label quality for natural language processing use cases
+    - Co-created open source data labeling tool [uplabel](https://github.com/maknotavailable/uplabel), including active learning feature and labeler performance metrics to iteratively enhance data label quality for natural language processing use cases
    
 **other than that, i used to work as ...**
 : 
     - freelance web developer
-    - working student @ kpmg
-    - working student @ [aperto (an ibm company)](https://aperto.com)
+    - working student @ kpmg (forensic data analytics)
+    - working student @ [aperto (an ibm company)](https://aperto.com) (content management)
 
 ## education
 
@@ -85,7 +85,7 @@ data scientist and architect for artificial intelligence-infused systems at Micr
 :    **aiesec in germany**; voluntary member, responsible for marketing and compliance-related topics
 
 **2017 - 2017**
-:    **german language teacher**; voluntary language tutor for a visually impaired student
+:    **german language teacher in việt nam**; voluntary language tutor for a visually impaired student
 
 **2013 - today**
 :    **[snkrgks sneakerblog](snkrgks.com)**; founder and owner of a sneaker culture weblog
@@ -102,8 +102,12 @@ data scientist and architect for artificial intelligence-infused systems at Micr
 :   - azure, ci/cd, devops, google cloud platform, docker, git, infrastructure as code, kubernetes, nosql, pytorch, spark, tensorflow, transformers
 
 **certifications**
-:   - microsoft dp-100, ai-100, ai-900
-	- certified professional scrum master
+:   - microsoft azure data scientist ([dp-100](https://www.credly.com/badges/0588f6f7-57be-4d7a-bd5a-174605c8fe94?source=linked_in_profile))
+	- microsoft azure developer ([az-204](https://www.credly.com/badges/246d9911-a5ca-483a-8501-ce193991bc04?source=linked_in_profile))
+	- microsoft azure ai engineer ([ai-100](https://www.credly.com/badges/bc93d579-787a-4e6e-b819-ce07672c886b?source=linked_in_profile))
+	- microsoft azure ai fundamentals ([ai-900](https://www.credly.com/badges/614dbf52-4594-4864-993e-6c48ab482b38?source=linked_in_profile))
+	- microsoft azure data fundamentals ([dp-900](https://www.credly.com/badges/29f4b82d-016b-4b5e-a7c9-55d266aede53?source=linked_in_profile))
+	- professional scrum master i ([psm i](https://www.scrum.org/certificates/554592))
 
 **languages**
 :   - german (native)
