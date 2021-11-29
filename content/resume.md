@@ -4,27 +4,23 @@ slug = "resume"
 +++
 
 ## long story short
-data scientist and architect for artificial intelligence-infused systems at Microsoft with extensive hands-on experience ranging from envisioning and scoping use cases to data analysis, machine learning model development, and production deployment.
+data scientist and engineer for artificial intelligence-infused systems at Microsoft with extensive hands-on experience ranging from envisioning and scoping use cases to data analysis, machine learning model development, and production deployment.
 
 ## professional experience
+**2021/11 - today**
+:   **machine learning engineer**; the boston consulting group (bcg), copenhagen (denmark)
+    *part of bcg's gamma track, enabling companies to deliver impact through high-stakes use cases*
+    - scoped and developed multiple artificial intelligence-infused systems and tools, focused on machine learning and software engineering
 
-**2018/10 - today**
-:   **delivery data scientist / architect for ai systems**; microsoft, berlin (germany)
-
-    *part of consulting services working with strategic enterprise customers*
+**2018/10 - 2021/11**
+:   **delivery data scientist**; microsoft, berlin (germany)
+    *part of customer transformation & innovation working with strategic enterprise customers*
     - scoped and developed multiple artificial intelligence-infused systems and tools, focused on machine learning and software engineering
     - programmatic drive of intellectual property re-use across the company
     - speaker at worldwide developer community and business events   
     - created data science demos (voice bots, support ticket classification, image recognition) which helped to generate over three million dollars in revenue
     - joined microsoft via the international "aspire" fast-track program that places fresh graduates in senior positions and leadership trainings across the world
     
-    *projects*
-    - co-developed python-based end-to-end solution [verseagility](https://github.com/microsoft/verseagility) for custom natural language processing tasks including classification, named entity recognition, question-answering, summarization and machine reading comprehension. The toolkit helped to reduce implementation efforts to reach go-live stage by 60% within multiple customer engagements
-    - Developed custom, voice-based post-processing for German car license plates using named entity recognition within in a large-scale voice bot solution (1.000.000 calls per year, recognition score of > 90%)
-    - Implemented training data generator for natural language understanding units to enhance recognition quality in specific domains
-    - Developed solution accelerator [glue](https://github.com/microsoft/glue) for language-based use cases with azure cognitive services, enabling customers and developers to conduct end-to-end batch testing of interconnected services and models
-    - Co-created open source data labeling tool [uplabel](https://github.com/maknotavailable/uplabel), including active learning feature and labeler performance metrics to iteratively enhance data label quality for natural language processing use cases
-   
 **other than that, i used to work as ...**
 : 
     - freelance web developer
@@ -46,7 +42,7 @@ data scientist and architect for artificial intelligence-infused systems at Micr
     - conducted group research project on lgbt-acceptance in vietnam, including a survey for data collection and statistical analysis using r
 
 **2011 - 2014**
-:   **bachelor of science - information systems**; baden-wuerremberg cooperative state university, stuttgart (germany)
+:   **bachelor of science - information systems**; baden-wuerrtemberg cooperative state university, stuttgart (germany)
 
     - dual studies with practical experience at deutsche rentenversicherung baden-wuerttemberg (german national pension fund)
     - areas of study: application management, database systems
@@ -103,14 +99,15 @@ data scientist and architect for artificial intelligence-infused systems at Micr
 
 **certifications**
 :   - microsoft azure data scientist ([dp-100](https://www.credly.com/badges/0588f6f7-57be-4d7a-bd5a-174605c8fe94?source=linked_in_profile))
-	- microsoft azure developer ([az-204](https://www.credly.com/badges/246d9911-a5ca-483a-8501-ce193991bc04?source=linked_in_profile))
-	- microsoft azure ai engineer ([ai-100](https://www.credly.com/badges/bc93d579-787a-4e6e-b819-ce07672c886b?source=linked_in_profile))
-	- microsoft azure ai fundamentals ([ai-900](https://www.credly.com/badges/614dbf52-4594-4864-993e-6c48ab482b38?source=linked_in_profile))
-	- microsoft azure data fundamentals ([dp-900](https://www.credly.com/badges/29f4b82d-016b-4b5e-a7c9-55d266aede53?source=linked_in_profile))
-	- professional scrum master i ([psm i](https://www.scrum.org/certificates/554592))
+    - microsoft azure data fundamentals ([dp-900](https://www.credly.com/badges/29f4b82d-016b-4b5e-a7c9-55d266aede53?source=linked_in_profile))
+    - microsoft azure devops engineer expert ([az-400](https://www.credly.com/badges/01312b5f-1ab4-4159-ae21-41aceb826c59?source=linked_in_profile))
+    - microsoft azure developer ([az-204](https://www.credly.com/badges/246d9911-a5ca-483a-8501-ce193991bc04?source=linked_in_profile))
+    - microsoft azure ai engineer ([ai-100](https://www.credly.com/badges/bc93d579-787a-4e6e-b819-ce07672c886b?source=linked_in_profile))
+    - microsoft azure ai fundamentals ([ai-900](https://www.credly.com/badges/614dbf52-4594-4864-993e-6c48ab482b38?source=linked_in_profile))
+    - professional scrum master i ([psm i](https://www.scrum.org/certificates/554592))
 
 **languages**
 :   - german (native)
     - english (c2)
     - french (b1)
-    - spanish (just started :))
+    - spanish (a2 and wip)
